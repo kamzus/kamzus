@@ -8,19 +8,9 @@
 
 ## 👨‍💻 O mnie
 
-<p align="left">
-  Jestem studentem Automatyki i Robotyki z pasją do programowania i tworzenia unikalnych doświadczeń w świecie gier. Łączę wiedzę techniczną zdobytą na studiach z kreatywnością, aby budować angażujące projekty. <br><br>
-  
-  - 🔭 Aktualnie wkładam całe serce w rozwój serwera Minecraft **<a href="https://github.com/kamzus/MeaLife.Net">MeaLife.Net</a>**.
-  
-  - 🌱 Uczę się **---**, aby jeszcze bardziej usprawnić serwer.
-  
-  - 💬 Zapytaj mnie o cokolwiek związanego z **Pythonem, C/C++, algorytmami sterowania czy mikrokontrolerami (np. Arduino, STM32), a także administracją i tworzeniem serwerów gier**.
-  
-  - 📫 Jak się ze mną skontaktować: **info@kamzu.net**
-  
-  - 😄 Ciekawostka: Uwielbiam widzieć, jak kod, który piszę, ożywa i daje radość innym graczom.
-</p>
+- 🎓 Student kierunku **Automatyka i Robotyka**.
+- 🔭 Aktualnie rozwijam serwer Minecraft **[MeaLife.Net](https://github.com/kamzus/MeaLife.Net)**.
+- 🤖 Programuję mikrokontrolery i tworzę systemy wbudowane.
 
 ## 🛠️ Technologie i narzędzia
 
