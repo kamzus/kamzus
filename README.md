@@ -32,6 +32,28 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="25"/>
 </p>
 
+## 🤖 Systemy wbudowane i mikrokontrolery
+
+<p align="left">
+  Fascynuje mnie tworzenie rozwiązań, które łączą świat cyfrowy z fizycznym. Mam doświadczenie w pracy z popularnymi platformami:
+  <br><br>
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank">
+    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  </a>
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
+    <img src="https://img.shields.io/badge/ESP32-E7332C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  </a>
+  <a href="https://www.espressif.com/en/products/socs/esp8266" target="_blank">
+    <img src="https://img.shields.io/badge/ESP8266-E7332C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266"/>
+  </a>
+  <a href="https://www.raspberrypi.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+  </a>
+</p>
+
 ## ✨ Mój główny projekt
 
 <table>
