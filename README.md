@@ -29,9 +29,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="25"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" height="25"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="25"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="25"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="25"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="25"/>
 </p>
 
 ## ✨ Mój główny projekt
@@ -45,10 +43,10 @@
           <img src="https://cdn.discordapp.com/attachments/1076228429093031998/1396014952623374346/MeaLife-01.jpg?ex=687c8bbd&is=687b3a3d&hm=893eabd11d740eb12ec18f9469472483937b5af8e3c348d8b43ae9c55459314c&" width="400" alt="Logo MeaLife.Net">
         </a>
         <p>
-          <a href="https://mealife.net" target="_blank">
+          <a href="https://discord.gg/P6ZQ9VsQcg" target="_blank">
             <img src="https://img.shields.io/badge/Dołącz_do_nas-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Dołącz do Discorda"/>
           </a>
-          <a href="https://github.com/kamzus/MeaLife.Net" target="_blank">
+          <a href="https://github.com/MeaLife" target="_blank">
             <img src="https://img.shields.io/badge/Kod_Źródłowy-181717?style=for-the-badge&logo=github" alt="Kod źródłowy"/>
           </a>
         </p>
