@@ -74,7 +74,10 @@
   <a href="mailto:info@kamzu.net">
     <img src="https://img.shields.io/badge/Napisz_do_mnie-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/[TWÓJ_PROFIL_LINKEDIN]" target="_blank">
+  <a href="https://discord.gg/QSbY6STvB4" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.linkedin.com/in/patrick-bernardt-9b78a2248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
