@@ -1,15 +1,97 @@
-<h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">I am a novice programmer.</h3>
+<h1 align="center">
+  Cześć, jestem Patrick! 👋
+</h1>
 
-- 🔭 I’m currently working on [MeaLife.Net](https://mealife.net)
+<h3 align="center">
+  Student Automatyki i Robotyki | Pasjonat systemów wbudowanych i AI
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://kamzu.net](https://kamzu.net)
+## 👨‍💻 O mnie
 
-- 📫 How to reach me **Info@kamzu.net**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  Jestem studentem Automatyki i Robotyki z zamiłowaniem do programowania i tworzenia inteligentnych systemów. Fascynuje mnie połączenie sprzętu i oprogramowania, które ożywia maszyny. <br><br>
+  
+  - 🔭 Aktualnie pracuję nad **[Nazwa projektu, np. autonomicznym ramieniem robota lub systemem wizyjnym]**.
+  
+  - 🌱 Uczę się **[Nowa technologia, np. ROS 2 (Robot Operating System), TensorFlow]**, aby poszerzyć swoje horyzonty w robotyce.
+  
+  - 💬 Zapytaj mnie o cokolwiek związanego z **Pythonem, C/C++, algorytmami sterowania czy mikrokontrolerami (np. Arduino, STM32)**.
+  
+  - 📫 Jak się ze mną skontaktować: **[TWÓJ_EMAIL@example.com]**
+  
+  - 😄 Ciekawostka: W wolnym czasie lubię [Twoje hobby, np. drukować w 3D części do moich robotów].
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+## 🛠️ Technologie i narzędzia
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="25"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" height="25"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="25"/>
+  <img src="https://img.shields.io/badge/ROS-223B69?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" height="25"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" height="25"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" height="25"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" height="25"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="25"/>
+</p>
+
+## ✨ Moje projekty
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Projekt 1: Robot mobilny</h3>
+      <div align="center">
+        <a href="[LINK DO REPOZYTORIUM PROJEKTU 1]" target="_blank">
+          <img src="[LINK DO OBRAZKA/ZDJĘCIA PROJEKTU 1]" width="400" alt="Podgląd projektu 1">
+        </a>
+        <p>
+          <a href="[LINK DO FILMU DEMO NA YOUTUBE (jeśli jest)]" target="_blank">
+            <img src="https://img.shields.io/badge/Zobacz_Wideo-FF0000?style=for-the-badge&logo=youtube" alt="Zobacz wideo"/>
+          </a>
+          <a href="[LINK DO REPOZYTORIUM PROJEKTU 1]" target="_blank">
+            <img src="https://img.shields.io/badge/Kod_Źródłowy-181717?style=for-the-badge&logo=github" alt="Kod źródłowy"/>
+          </a>
+        </p>
+        <p>Robot mobilny omijający przeszkody przy użyciu czujników ultradźwiękowych, zaprogramowany w C++ na platformie Arduino.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+          <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Projekt 2: Klasyfikator obrazów</h3>
+      <div align="center">
+        <a href="[LINK DO REPOZYTORIUM PROJEKTU 2]" target="_blank">
+          <img src="[LINK DO OBRAZKA/SCREENSHOTA PROJEKTU 2]" width="400" alt="Podgląd projektu 2">
+        </a>
+        <p>
+          <a href="[LINK DO REPOZYTORIUM PROJEKTU 2]" target="_blank">
+            <img src="https://img.shields.io/badge/Kod_Źródłowy-181717?style=for-the-badge&logo=github" alt="Kod źródłowy"/>
+          </a>
+        </p>
+        <p>Program w Pythonie wykorzystujący bibliotekę OpenCV do rozpoznawania i klasyfikowania obiektów w czasie rzeczywistym z kamery.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 📊 Moje statystyki
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TWOJA_NAZWA_UŻYTKOWNIKA_GITHUB]&show_icons=true&locale=pl&theme=tokyonight" alt="Statystyki GitHub Patricka"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TWOJA_NAZWA_UŻYTKOWNIKA_GITHUB]&layout=compact&langs_count=8&theme=tokyonight&locale=pl" alt="Najczęściej używane języki"/>
+</p>
+
+## 🔗 Znajdziesz mnie tutaj
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/[TWÓJ_PROFIL_LINKEDIN]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  </p>
