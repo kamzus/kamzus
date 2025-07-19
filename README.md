@@ -77,7 +77,7 @@
   <a href="https://discord.gg/QSbY6STvB4" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://www.linkedin.com/in/patrick-bernardt-9b78a2248/" target="_blank">
+  <a href="https://www.linkedin.com/in/patrickbernardt/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
